@@ -158,13 +158,6 @@
 
 ---
 
-## 🚀 Who This Course Is For
-- Students interested in **AI + Computer Architecture**
-- Engineers exploring **ML acceleration & hardware**
-- Developers curious about **LLMs from software to silicon**
-
----
-
 ## 🛠 Technologies Covered
 - Python
 - Machine Learning & Deep Learning
